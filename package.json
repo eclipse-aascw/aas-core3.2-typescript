@@ -1,0 +1,25 @@
+{
+  "name": "@aas-core-works/aas-core3.2-typescript",
+  "private": false,
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aas-core-works/aas-core3.2-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/aas-core-works/aas-core3.2-typescript/issues"
+  },
+  "homepage": "https://github.com/aas-core-works/aas-core3.2-typescript#readme",
+  "publishConfig": {
+    "access": "public"
+  }
+}

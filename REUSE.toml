@@ -11,11 +11,3 @@ path = ["AUTHORS", "package.json", "package-lock.json"]
 precedence = "aggregate"
 SPDX-FileCopyrightText = "2026 aas-core3.2-typescript AUTHORS"
 SPDX-License-Identifier = "MIT"
-
-# The packed npm package (binary). It is the published 0.0.1 release and must
-# stay byte-for-byte as it was uploaded.
-[[annotations]]
-path = ["*.tgz"]
-precedence = "aggregate"
-SPDX-FileCopyrightText = "2026 aas-core3.2-typescript AUTHORS"
-SPDX-License-Identifier = "MIT"
